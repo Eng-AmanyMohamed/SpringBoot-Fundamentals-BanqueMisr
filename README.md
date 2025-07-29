@@ -23,13 +23,13 @@ The objective of this task is to explore and implement key Spring Boot features 
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technology Used
 
 - Java 17+
 - Spring Boot 3.x
 - Maven
 - IntelliJ IDEA / VS Code
-- CURL (for API testing)
+- CURL / Postman (for API testing)
 
 ---
 
